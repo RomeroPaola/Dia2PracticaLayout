@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent" tools:context=".MainActivity"
+    android:orientation="vertical" android:gravity="center" android:padding="40dp">
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_linear_layout_vertical"
+        android:id="@+id/btn_linear_layout_vertical"/>
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_linear_layout_horizontal"
+        android:id="@+id/btn_linear_layout_horizontal"/>
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_relative_layout"
+        android:id="@+id/btn_relative_layout"/>
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_table_layout"
+        android:id="@+id/btn_table_layout"/>
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_frame_layout"
+        android:id="@+id/btn_frame_layout"/>
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_list_view"
+        android:id="@+id/btn_list_view"/>
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_grid_view"
+        android:id="@+id/btn_grid_view"/>
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_constraint_layout"
+        android:id="@+id/btn_constraint_layout"/>
+    <Button
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/btn_user_list"
+        android:id="@+id/btn_list_user"/>
+</LinearLayout>

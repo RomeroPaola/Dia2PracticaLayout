@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dia2PracticaLayout</string>
+    <string name="btn_linear_layout_vertical">Linear Layout Vertical</string>
+    <string name="btn_linear_layout_horizontal">Linear Layout Horizontal</string>
+    <string name="btn_relative_layout">Relative Layout</string>
+    <string name="btn_table_layout">Table Layout</string>
+    <string name="btn_frame_layout">Frame Layout</string>
+    <string name="btn_list_view">List View</string>
+    <string name="btn_grid_view">Grid View</string>
+    <string name="btn_constraint_layout">Constraint Layout</string>
+    <string name="btn_user_list">User List</string>
+</resources>
